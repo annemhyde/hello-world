@@ -1,8 +1,10 @@
 # hello-world
 My first repository
 
-I enjoy salads, reading, walking, yoga, exploring, and the great outdoors (in that order.)
+I enjoy reading, walking, yoga, exploring, vegetables, and the great outdoors.
 
 I am a triplet!
 
-I wake up at 5:15 AM but do not be fooled, I am still not a "morning person."
+I wake up at 5:15 AM.
+
+I love dogs!
